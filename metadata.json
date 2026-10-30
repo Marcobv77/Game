@@ -1,0 +1,6 @@
+{
+  "name": "Eclipse Drift",
+  "description": "Juego de supervivencia y terror cósmico espacial. Gestiona recursos críticos, repara tu nave a la deriva, explora anomalías y decide tu destino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
